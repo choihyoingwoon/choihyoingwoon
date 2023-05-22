@@ -4,7 +4,7 @@
 
 ### HyoingWoon Choi, Front-end Developer 👨🏻‍💻
 
----
+</br>
 
 ## Activity
 
@@ -30,7 +30,6 @@
 <div align=center>
   
 📚 I’m currently learning
-
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 <br>
